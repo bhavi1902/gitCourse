@@ -1,0 +1,52 @@
+10 friends in a group 
+each if them has 5 books 
+borrow one book and return the book to the respective owner 
+rent price = 50 rs for 30 days
+per month 50rs for not returning the book 
+can take one book at a time.
+advance money - 1000 rs for borrowing a book (one time charge)
+the advance money is returned after the person has deactivated the account
+wishlist: notify the borrower for the available genres of books in his or her area
+set a target of reading particular number of pages in a day 
+get notified about the targetted time of reading 
+ 
+ 
+
+targetted audience : people living nearby who have reading interests with hardcopies of books costing more than 500
+
+create a portal for this 
+
+who are the users of the application?
+what are the entities of your application?
+what are attributes of your application?
+
+tables to be created:
+user_book_management,
+types_of_books
+
+payment wallet:every user will have 2000rs by default in their wallet 
+
+tag:development
+1. users can be borrowers
+2. books owned by users
+3. user can borrow and lend book
+
+user_table:
+1.full name column
+2.id 
+3.country code
+4.state 
+5.city 
+6.address
+7.pincode
+8.email id
+9.phone number
+10.password
+11.email id
+12.interested genres
+13.status created by 
+14.status created at time
+15.is active- subscription detail
+
+
+
